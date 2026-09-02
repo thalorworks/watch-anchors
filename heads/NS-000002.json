@@ -1,8 +1,7 @@
 {
+  "anchored_at_utc": "2026-09-02T10:33:25Z",
   "as_of": "2026-09-01",
   "computed_at_utc": "2026-09-02T10:26:22Z",
   "entry_hash": "ffd1847151009f32f609916943be6911173faa068934241c8782a617f48760fb",
-  "prev_hash": "8e577fca306a1f089850876ebff8f7b2d62fa0a87608e3c4e28aff5de38fdba6",
-  "seq": 2,
-  "snapshot": "NS-000002-20260902T102622Z"
+  "seq": 2
 }
